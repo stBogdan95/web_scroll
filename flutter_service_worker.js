@@ -28,7 +28,7 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "main.dart.js",
+  "https://stbogdan95.github.io/web_scroll/main.dart.js",
 "index.html",
 "assets/NOTICES",
 "assets/AssetManifest.json",
